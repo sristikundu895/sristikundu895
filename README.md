@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **Projects where i can showcase my skills through collaboration**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sristi2023](https://github.com/sristi2023)
+- 👨‍💻 All of my projects are available at [https://github.com/sristikundu895](https://github.com/sristikundu895)
 
 - 💬 Ask me about **Java,Python,Servlet,JSP,Swing,Web Development**
 
